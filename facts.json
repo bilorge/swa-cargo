@@ -2,7 +2,7 @@
     "metadata": {
         "Dept": "people",
         "team": "Pixel-Pod",
-        "cost center": "5551"
+        "cost center": "5550"
     },
     "facts":{
         "regions": ["us-east-1", "us-east-2", "us-west-", "us-west-2"],
@@ -14,7 +14,7 @@
     "tags": {
         "Dept": "people",
         "pod": "Pixel-Pod",
-        "cost center": "5551",
+        "cost center": "5550",
         "env": "dev"
     }
 }
